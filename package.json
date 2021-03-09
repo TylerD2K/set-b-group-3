@@ -1,8 +1,8 @@
 {
-  "name": "Jacob_cordes_Components2",
+  "name": "Midterm",
   "version": "1.0.0",
   "description": "",
-  "main": "workflow.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
